@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: page
 title: About
@@ -31,3 +32,21 @@ date_format: "%Y-%M-%D" //and date format.
 ![alt text](/public/img/screenshot-m1.png)
 #### Page - Articles
 ![alt text](/public/img/screenshot-m2.png)
+=======
+### Hi there 👋
+
+<!--
+**JeWookRyu/JeWookRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> a295001ebf0e1659ff87cc3a89f1ccf5ca176f32
